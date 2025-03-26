@@ -11,8 +11,8 @@ Section: U02
 
 Banker's Algorithm
 ==================
-FIX THIS:
-This program simulates various CPU scheduling algorithms using process data from an input file.
+
+This program simulates the banker's algorithm to avoid a deadlock for systems with multiple instances of each resource type.
 
 Compilation Instructions:
 ------------------------
